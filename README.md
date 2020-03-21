@@ -1,3 +1,4 @@
-# weipf
-Just For Study. 
-Devlop based on Qt 5.7.0.
+# 
+1、bin点阵文件的读取，裁剪；
+2、bin点阵文件，通过bmp文件去替换；
+3、ttf文件根据字符集裁剪
